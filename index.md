@@ -47,7 +47,7 @@ __Trainee, Grundfos Holding A/S, Bjerringbro, Denmark__
 
 ## Education
 `2023`
-__Projekt leadership and management, CBS HD2, Copenhagen Business School, Copenhagen, Denmark.__
+__Project Leadership and Management, CBS HD2, Copenhagen Business School, Copenhagen, Denmark.__
 
 `2019`
 __Adjunct Pedagogy, AAU Learning Lab, Aalborg, Denmark.__
@@ -63,11 +63,19 @@ __MSc in Thermal Energy and Process Engineering, Aalborg University__
 
 ## Grants
 
+`2023`
+*CFD simulations of fully-resolved jet break-up for agriculture use*
+
+- Funding agency: Danish e-infrastructure Cooperation (DeiC)
+- HPC system: Supercomputer LUMI
+- Project period: 01 January 2024 to 31 December 2024
+- Role: Principal investigator
+
 `2022`
 *DNS studies on frictional drag reduction of ships using air bubbles*
 
 - Funding agency: Danish e-infrastructure Cooperation (DeiC)
-- HPC system: Supercomputer LUMI (no. 76 in 2021)
+- HPC system: Supercomputer LUMI
 - Project period: 15 March 2022 to 31 August 2022
 - Role: Principal investigator
 
@@ -90,7 +98,7 @@ __MSc in Thermal Energy and Process Engineering, Aalborg University__
 - *Favourite OS:* Debian (Ubuntu) and macOS
 - *Favourite CFD software:* OpenFOAM, blockMesh, snappyHexMesh, LIGGGHTS, CFDEM
 - *Favourite Programming language:* Python (numpy, numba, scipy, matplotlib), bash scripting, MATLAB
-- *Favourite Workflow includes:* Docker, Git, GitHub
+- *Favourite Workflow includes:* Docker, Git, GitHub and GitHub actions
 
 ## Open-source Projects
 
