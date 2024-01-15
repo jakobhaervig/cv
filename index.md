@@ -3,7 +3,7 @@ layout: cv
 title: Jakob Hærvig's CV
 ---
 # Jakob Hærvig
-Associate Professor with interests in open-source computational fluid dynamics, heat transfer and scientific coding
+Associate Professor with interests in open-source computational fluid dynamics, heat transfer, thermal energy storage and scientific coding
 
 <div id="webaddress">
 <a href="jakob.haervig@gmail.com">jakob.haervig@gmail.com</a>
@@ -118,7 +118,7 @@ Best thesis award handed, Energy Sponsor Programme, Aalborg University, Denmark
 
 An up-to-date list is available [here](https://scholar.google.dk/citations?user=vHh6K4AAAAAJ&hl)
 
-## Reviewer for the following journals
+## Voluntarily peer-reviewing for
 
 - Journal of Fluid Mechanics
 - International Journal of Heat and Mass Transfer
