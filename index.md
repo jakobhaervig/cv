@@ -6,7 +6,7 @@ title: Jakob Hærvig's CV
 Associate Professor
 
 <div id="webaddress">
-<a href="jakob.haervig@gmail.com">jakob.haervig@gmail.com</a>
+<a href="mailto:jakob.haervig@gmail.com">jakob.haervig@gmail.com</a>
 | <a href="https://haervig.com">haervig.com </a>| <a href="https://www.linkedin.com/in/jakobhaervig/">LinkedIn </a>| <a href="https://github.com/jakobhaervig">GitHub</a>
 </div>
 
@@ -102,8 +102,11 @@ __MSc in Thermal Energy and Process Engineering, Aalborg University__
 
 ## Open-source Projects
 
-- [OpenTerrace](https://openterrace.github.io/openterrace-python/) (creator, contributor)
-- [Orienteering Tools](https://github.com/orienteering-tools) (co-creator, contributor)
+- [OpenTerrace](https://openterrace.github.io/openterrace-python/) (creator, contributor, maintainer).
+- [Guide: OpenFOAM with Docker](https://github.com/jakobhaervig/openfoam-dockerfiles) (creator, contributor, maintainer)
+- [Guide: OpenFOAM setup with VS Code](https://github.com/jakobhaervig/openfoam-docker-vscode-workflow) (creator, contributor, maintainer)
+- [Guide: OpenFOAM with WSL](https://github.com/jakobhaervig/openfoam-wsl-workflow) (creator, contributor, maintainer)
+- [Guide: OpenFOAM on LUMI](https://github.com/jakobhaervig/openfoam-lumi-hpc-installation) (creator, contributor, maintainer)
 - [QMK firmware](https://github.com/qmk/qmk_firmware) (contributor)
 
 ## Awards
