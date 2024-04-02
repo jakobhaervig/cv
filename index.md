@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Jakob Hærvig's CV
+title: Jakob Hærvig
 ---
 # Jakob Hærvig
 Associate Professor
