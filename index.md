@@ -3,7 +3,10 @@ layout: cv
 title: Jakob Hærvig
 ---
 # Jakob Hærvig
+<div id="webaddress">
 Associate Professor
+</div>
+
 
 <div id="webaddress">
 <a href="mailto:jakob.haervig@gmail.com">jakob.haervig@gmail.com</a>
