@@ -66,6 +66,14 @@ __MSc in Thermal Energy and Process Engineering, Aalborg University__
 
 ## Grants
 
+`2024`
+*“Danish participation in IEA ES Task 44 - Power-to-Heat and heat integrated Carnot Batteries for ZeroCarbon (industrial) heat supply*
+
+- Funding agency: The Energy Technology and Demonstration Programme (EUDP)
+- Project period: 01 March 2024 to 1 March 2027
+- Role: Project partner
+
+
 `2023`
 *CFD simulations of fully-resolved jet break-up for agriculture use*
 
