@@ -58,11 +58,11 @@ __Adjunct Pedagogy, AAU Learning Lab, Aalborg, Denmark.__
 
 `2014 - 2017`
 __PhD in Fluid Dynamics, Aalborg University__
-- Thesis title: On the Adhesive Behaviour of Micron-sized particles in Turbulent Flow - A Numerical Study Coupling the Discrete Element Method and Large Eddy Simulations. [Download thesis](https://vbn.aau.dk/ws/portalfiles/portal/268165886/PHD_Jakob_Haervig_rettet_E_pdf.pdf)
+- [Thesis title: On the Adhesive Behaviour of Micron-sized particles in Turbulent Flow - A Numerical Study Coupling the Discrete Element Method and Large Eddy Simulations](https://vbn.aau.dk/ws/portalfiles/portal/268165886/PHD_Jakob_Haervig_rettet_E_pdf.pdf)
 
 `2012 - 2014`
 __MSc in Thermal Energy and Process Engineering, Aalborg University__
--  Thesis title: Extending the Existing Modelling Framework for Non-Spherical Particles to Include Flat Plates in Free Fall. [Download thesis](https://vbn.aau.dk/ws/portalfiles/portal/214692689/masterThesis.pdf)
+-  [Thesis title: Extending the Existing Modelling Framework for Non-Spherical Particles to Include Flat Plates in Free Fall](https://vbn.aau.dk/ws/portalfiles/portal/214692689/masterThesis.pdf)
 
 ## Grants
 
@@ -130,7 +130,7 @@ Best thesis award handed, Energy Sponsor Programme, Aalborg University, Denmark
 
 ## Publications
 
-An up-to-date list is available [here](https://scholar.google.dk/citations?user=vHh6K4AAAAAJ&hl)
+[Up-to-date list of publications at Google Scholar](https://scholar.google.dk/citations?user=vHh6K4AAAAAJ&hl)
 
 ## Voluntary work
 
