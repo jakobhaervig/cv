@@ -104,6 +104,12 @@ __MSc in Thermal Energy and Process Engineering, Aalborg University__
 - Funding agency: ASEM DUO
 - Project period: 15 March 2022 to 15 April 2022
 
+## Teaching
+
+- *PhD course:* "Open-source Computational Fluid Dynamics Course". More info at [opensourcecfdcourse.dk](https://opensourcecfdcourse.dk/)
+- *BSc course:* "Heat transfer". Interactive course slides available at [courses.haervig.com/heat-transfer](https://courses.haervig.com/heat-transfer/#/)
+- *OpenFOAM Days* - Two full days of OpenFOAM for all students at AAU. More info and registration at [openfoamdays.aau.dk](https://openfoamdays.aau.dk)
+
 ## Computing
 
 - *Favourite OS:* Debian (Ubuntu) and macOS
