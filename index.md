@@ -13,9 +13,9 @@ Associate Professor
 | <a href="https://haervig.com">haervig.com </a>| <a href="https://www.linkedin.com/in/jakobhaervig/">LinkedIn </a>| <a href="https://github.com/jakobhaervig">GitHub</a>
 </div>
 
-### Specialized in
+### Focusing on
 
-Computational Fluid Dynamics (CFD), OpenFOAM, Data Reduction, Scientific Coding, Python
+Thermal energy storage, Carnot batteries, Computational Fluid Dynamics (CFD), OpenFOAM, Data Reduction, Scientific Coding, Python
 
 ### Research interests
 
