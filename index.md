@@ -33,7 +33,7 @@ __Associate Professor, AAU Energy, Aalborg University__
 __Member of steering committee, DaCES (Danish Centre for Energy Storage)__
 
 `2019 - now`
-__Board member, DANSIS (The Danish Society for Industrial Fluid Mechanics)__
+__Board member, DANSIS (The Danish Society for Industrial Fluid Dynamics)__
 
 `2018 - 2022`
 __Assistant Professor, AAU Energy, Aalborg University__
