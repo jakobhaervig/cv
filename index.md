@@ -152,4 +152,4 @@ Best thesis award handed, Energy Sponsor Programme, Aalborg University, Denmark
 
 ## Personal interests
 
-Running (5000 m), Bouldering, Fine art landscape photography ([jakobhaervig.com](https://www.jakobhaervig.com)), Scientific coding
+Running (5000 m), Bouldering, Fine art landscape photography, Scientific coding
