@@ -15,11 +15,7 @@ Associate Professor
 
 ### Focusing on
 
-Thermal energy storage, Carnot batteries, Computational Fluid Dynamics (CFD), OpenFOAM, Data Reduction, Scientific Coding, Python
-
-### Research interests
-
-Make the World a better place
+Computational Fluid Dynamics (CFD), OpenFOAM, Workflow automation, CI/CD, Data reduction, Scientific coding, Python
 
 ## Experience
 
@@ -112,17 +108,18 @@ __MSc in Thermal Energy and Process Engineering, Aalborg University__
 
 ## Computing
 
-- *Favourite OS:* Debian (Ubuntu) and macOS
-- *Favourite CFD software:* OpenFOAM, blockMesh, snappyHexMesh, LIGGGHTS, CFDEM
-- *Favourite Programming language:* Python (numpy, numba, scipy, matplotlib), bash scripting, MATLAB
-- *Favourite Workflow includes:* Docker, Git, GitHub and GitHub actions
+- *Favourite OS:* Debian/Ubuntu and Windows with WSL
+- *Favourite CFD tools:* OpenFOAM, blockMesh, snappyHexMesh, Salome, LIGGGHTS, CFDEM
+- *Favourite programming language:* Python (numpy, numba, scipy, matplotlib), bash scripting, MATLAB
+- *Favourite workflow includes:* Docker, Git, GitHub and GitHub actions for CI/CD pipelines, virtual environments
+- *Favourite presentation software:* reveal.js
 
 ## Open-source Projects
 
 - [OpenTerrace](https://openterrace.github.io/openterrace-python/) (creator, contributor, maintainer).
 - [Guide: OpenFOAM with Docker](https://github.com/jakobhaervig/openfoam-dockerfiles) (creator, contributor, maintainer)
 - [Guide: OpenFOAM setup with VS Code](https://github.com/jakobhaervig/openfoam-docker-vscode-workflow) (creator, contributor, maintainer)
-- [Guide: OpenFOAM with WSL](https://github.com/jakobhaervig/openfoam-wsl-workflow) (creator, contributor, maintainer)
+- [Guide: OpenFOAM with WSL/Linux](https://github.com/jakobhaervig/openfoam-installer) (creator, contributor, maintainer)
 - [Guide: OpenFOAM on LUMI](https://github.com/jakobhaervig/openfoam-lumi-hpc-installation) (creator, contributor, maintainer)
 - [QMK firmware](https://github.com/qmk/qmk_firmware) (contributor)
 
