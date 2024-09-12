@@ -129,7 +129,7 @@ __MSc in Thermal Energy and Process Engineering, Aalborg University__
 Voted best teacher of the autumn semester by students, Study Board of Energy, Aalborg University, Denmark
 
 `2018`
-Supervised students winning the DANSIS "Best Fluid Mechanics Thesis Award" in Denmark
+Supervised thesis awarded "Best Fluid Mechanics Thesis" in Denmark by DANSIS
 
 `2014`
 Best thesis award, Energy Sponsor Programme, Aalborg University, Denmark
