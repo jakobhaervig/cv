@@ -36,8 +36,7 @@ __Assistant Professor, AAU Energy, Aalborg University__
 
 `2014 - 2017`
 __PhD Student, AAU Energy, Aalborg University__
-<br>
-__Focus was on fluid dynamics using computational methods. The adhesive behaviour of small micron-sized particles in turbulent flows was investigated by coupling the Discrete Element Method (DEM) to Large Eddy Simulations (LES) using the open-source software LIGGGHTS, CFDEM and OpenFOAM.__
+- Focus was on fluid dynamics using computational methods. The adhesive behaviour of small micron-sized particles in turbulent flows was investigated by coupling the Discrete Element Method (DEM) to Large Eddy Simulations (LES) using the open-source software LIGGGHTS, CFDEM and OpenFOAM.
 
 `2016 - 2016`
 __Visiting Researcher, Technical University Munich, Germany__
@@ -64,15 +63,14 @@ __MSc in Thermal Energy and Process Engineering, Aalborg University__
 ## Grants
 
 `2024`
-*“Danish participation in IEA ES Task 44 - Power-to-Heat and heat integrated Carnot Batteries for ZeroCarbon (industrial) heat supply*
+__“Danish participation in IEA ES Task 44 - Power-to-Heat and heat integrated Carnot Batteries for ZeroCarbon (industrial) heat supply__
 
 - Funding agency: The Energy Technology and Demonstration Programme (EUDP)
 - Project period: 01 March 2024 to 1 March 2027
 - Role: Project partner
 
-
 `2023`
-*CFD simulations of fully-resolved jet break-up for agriculture use*
+__CFD simulations of fully-resolved jet break-up for agriculture use__
 
 - Funding agency: Danish e-infrastructure Cooperation (DeiC)
 - HPC system: Supercomputer LUMI
@@ -80,7 +78,7 @@ __MSc in Thermal Energy and Process Engineering, Aalborg University__
 - Role: Principal investigator
 
 `2022`
-*DNS studies on frictional drag reduction of ships using air bubbles*
+__DNS studies on frictional drag reduction of ships using air bubbles__
 
 - Funding agency: Danish e-infrastructure Cooperation (DeiC)
 - HPC system: Supercomputer LUMI
@@ -88,7 +86,7 @@ __MSc in Thermal Energy and Process Engineering, Aalborg University__
 - Role: Principal investigator
 
 `2022`
-*A simulation framework for developing energy storage in stones*
+__A simulation framework for developing energy storage in stones__
 
 - Funding agency: Energy Cluster Denmark (ECD)
 - Collaborating partners: Roskilde University, Stiesdal Storage Technologies A/S, Stormning APS
@@ -96,7 +94,7 @@ __MSc in Thermal Energy and Process Engineering, Aalborg University__
 - Role: Principal investigator
 
 `2020`
-*2020 DUO-India Professor Fellowship*
+__2020 DUO-India Professor Fellowship__
 
 - Funding agency: ASEM DUO
 - Project period: 15 March 2022 to 15 April 2022
