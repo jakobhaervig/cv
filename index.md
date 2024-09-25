@@ -36,6 +36,7 @@ __Assistant Professor, AAU Energy, Aalborg University__
 
 `2014 - 2017`
 __PhD Student, AAU Energy, Aalborg University__
+<br>
 __Focus was on fluid dynamics using computational methods. The adhesive behaviour of small micron-sized particles in turbulent flows was investigated by coupling the Discrete Element Method (DEM) to Large Eddy Simulations (LES) using the open-source software LIGGGHTS, CFDEM and OpenFOAM.__
 
 `2016 - 2016`
