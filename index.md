@@ -123,6 +123,8 @@ __2020 DUO-India Professor Fellowship__
 - [QMK firmware](https://github.com/qmk/qmk_firmware) (contributor)
 
 ## Awards
+`2024`
+Supervised thesis awarded "Best Fluid Mechanics Thesis" in Denmark by DANSIS
 
 `2020`
 Voted best teacher of the autumn semester by students, Study Board of Energy, Aalborg University, Denmark
