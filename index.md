@@ -9,7 +9,7 @@ Associate Professor
 
 
 <div id="webaddress">
-| <a href="https://jakobhaervig.com">haervig.com </a>| <a href="https://www.linkedin.com/in/jakobhaervig/">LinkedIn </a>| <a href="https://github.com/jakobhaervig">GitHub</a>
+<a href="https://jakobhaervig.com">jakobhaervig.com </a>| <a href="https://www.linkedin.com/in/jakobhaervig/">LinkedIn </a>| <a href="https://github.com/jakobhaervig">GitHub</a>
 </div>
 
 ### Focusing on
