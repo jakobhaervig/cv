@@ -9,8 +9,7 @@ Associate Professor
 
 
 <div id="webaddress">
-<a href="mailto:jakob.haervig@gmail.com">jakob.haervig@gmail.com</a>
-| <a href="https://haervig.com">haervig.com </a>| <a href="https://www.linkedin.com/in/jakobhaervig/">LinkedIn </a>| <a href="https://github.com/jakobhaervig">GitHub</a>
+| <a href="https://jakobhaervig.com">haervig.com </a>| <a href="https://www.linkedin.com/in/jakobhaervig/">LinkedIn </a>| <a href="https://github.com/jakobhaervig">GitHub</a>
 </div>
 
 ### Focusing on
