@@ -104,10 +104,10 @@ __*PhD course:* "Open-source Computational Fluid Dynamics Course"__
 - More info at [opensourcecfdcourse.dk](https://opensourcecfdcourse.dk/)
 
 __*BSc course:* "Heat transfer"__ 
-- Interactive course slides available at [courses.haervig.com/heat-transfer](https://courses.haervig.com/heat-transfer/#/)
+- Interactive course slides available at [jakobhaervig.com/courses](https://jakobhaervig.com/courses)
 
 __*OpenFOAM Days*__
-- Two full days of OpenFOAM for all students at AAU. More info and registration at [openfoamdays.aau.dk](https://openfoamdays.aau.dk)
+- Two full days of OpenFOAM for all students at AAU. More info and registration at [openfoamdays.aau.dk](https://openfoamdays.aau.dk) (with AAU login). Slides available at [jakobhaervig.com/courses](https://jakobhaervig.com/courses)
 
 ## Computing
 
@@ -120,9 +120,9 @@ __*OpenFOAM Days*__
 ## Open-source Projects
 
 - [OpenTerrace](https://openterrace.github.io/openterrace-python/) (creator, contributor, maintainer).
+- [Guide: OpenFOAM with WSL/Linux](https://github.com/jakobhaervig/openfoam-installer) (creator, contributor, maintainer)
 - [Guide: OpenFOAM with Docker](https://github.com/jakobhaervig/openfoam-dockerfiles) (creator, contributor, maintainer)
 - [Guide: OpenFOAM setup with VS Code](https://github.com/jakobhaervig/openfoam-docker-vscode-workflow) (creator, contributor, maintainer)
-- [Guide: OpenFOAM with WSL/Linux](https://github.com/jakobhaervig/openfoam-installer) (creator, contributor, maintainer)
 - [Guide: OpenFOAM on LUMI](https://github.com/jakobhaervig/openfoam-lumi-hpc-installation) (creator, contributor, maintainer)
 - [QMK firmware](https://github.com/qmk/qmk_firmware) (contributor)
 
