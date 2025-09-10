@@ -103,11 +103,14 @@ __2020 DUO-India Professor Fellowship__
 __*PhD course:* "Open-source Computational Fluid Dynamics Course"__
 - More info at [opensourcecfdcourse.dk](https://opensourcecfdcourse.dk/)
 
+__*MSc course:* "Fluid Mechanics"__
+- Interactive course slides available at [https://slides.jakobhaervig.com/](https://slides.jakobhaervig.com/)
+
 __*BSc course:* "Heat transfer"__ 
-- Interactive course slides available at [jakobhaervig.com/courses](https://jakobhaervig.com/courses)
+- Interactive course slides available at [https://slides.jakobhaervig.com/](https://slides.jakobhaervig.com/)
 
 __*OpenFOAM Days*__
-- Two full days of OpenFOAM for all students at AAU. More info and registration at [openfoamdays.aau.dk](https://openfoamdays.aau.dk) (with AAU login). Slides available at [jakobhaervig.com/courses](https://jakobhaervig.com/courses)
+- Two full days of OpenFOAM for all students at AAU.
 
 ## Computing
 
