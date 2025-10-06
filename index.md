@@ -142,7 +142,7 @@ Supervised thesis awarded "Best Fluid Mechanics Thesis" in Denmark by DANSIS
 `2014`
 Best thesis award, Energy Sponsor Programme, Aalborg University, Denmark
 
-## Selected publications
+## Publications
 
 <!-- - **J. Hærvig**, U. Kleinhans, C. Wieland, H. Spliethoff, A.L. Jensen, K. Sørensen, and T.J. Condra. On the
 adhesive jkr contact and rolling models for reduced particle stiffness discrete element simulations. Powder Technology, 319:472–482, 2017
