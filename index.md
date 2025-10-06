@@ -8,9 +8,9 @@ Associate Professor
 </div>
 
 
-<div id="webaddress">
+<!-- <div id="webaddress">
 <a href="https://jakobhaervig.com">jakobhaervig.com </a>| <a href="https://www.linkedin.com/in/jakobhaervig/">LinkedIn </a>| <a href="https://github.com/jakobhaervig">GitHub</a>
-</div>
+</div> -->
 
 ### Focusing on
 
@@ -142,7 +142,29 @@ Supervised thesis awarded "Best Fluid Mechanics Thesis" in Denmark by DANSIS
 `2014`
 Best thesis award, Energy Sponsor Programme, Aalborg University, Denmark
 
-## Publications
+## Selected publications
+
+<!-- - **J. Hærvig**, U. Kleinhans, C. Wieland, H. Spliethoff, A.L. Jensen, K. Sørensen, and T.J. Condra. On the
+adhesive jkr contact and rolling models for reduced particle stiffness discrete element simulations. Powder Technology, 319:472–482, 2017
+- **J. Hærvig**, OpenTerrace: A fast, flexible and extendable Python framework for thermal energy storage packed bed simulations. The Journal of Open Source Software 98 (9), 6411
+- **J Hærvig**, K Sørensen, TJ Condra. On the fully-developed heat transfer enhancing flow field in sinusoidally, spirally corrugated tubes using computational fluid dynamics. 
+International Journal of Heat and Mass Transfer 106, 1051-1062
+- Bjerg, K. Christoffersen, H. Sørensen, and **J. Hærvig**. Flow structures and heat transfer in repeating
+arrangements of staggered rectangular winglet pairs by large eddy simulations: Effect of winglet height
+and longitudinal pitch distance. International Journal of Heat and Mass Transfer, 131:654–663, 2019
+- Bjørn Christian Dueholm, Jesper de Claville Christiansen, Benny Endelt, Nikolaj Kristensen, and **Jakob Hærvig**. Implementation of a VoF solver with phase change for the simulation of internal cavitation and
+droplet breakup in injectors. OpenFOAM® Journal, 4:62–78, Apr. 2024
+- **J. Hærvig**, U. Kleinhans, C. Wieland, H. Spliethoff, A.L. Jensen, K. Sørensen, and T.J. Condra. On the
+adhesive jkr contact and rolling models for reduced particle stiffness discrete element simulations. Powder
+Technology, 319:472–482, 2017
+- **Jakob Hærvig**. cyclictemperaturefoam - an openfoam solver for cyclic heat transfer. 2018. DOI: 10.5281/zenodo.1254573
+- Christian Kringel, Victor Hvass Mølbak, and **Jakob Hærvig**. Effect of aerofoil geometry on droplet size
+distribution in a pneumatic spray nozzle by VOF simulations. International Communications in Heat and
+Mass Transfer, 163:108665, 2025
+- Turo Välikangas, **Jakob Hærvig**, Heino Kuuluvainen, Miikka Dal Maso, Petteri Peltonen, and Ville Vuori-
+nen. Deposition of dry particles on a fin-and-tube heat exchanger by a coupled soft-sphere DEM and CFD.
+International Journal of Heat and Mass Transfer, 149:119046, 2020
+- **J. Hærvig**. On the Adhesive Behaviour of Micron-sized Particles in Turbulent Flow: A Numerical Study Coupling the Discrete Element Method and Large Eddy Simulations, PhD Thesis 2017 -->
 
 [Up-to-date list of publications at Google Scholar](https://scholar.google.dk/citations?user=vHh6K4AAAAAJ&hl)
 
