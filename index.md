@@ -122,7 +122,7 @@ __*OpenFOAM Days*__
 
 ## Open-source Projects
 
-- [OpenTerrace](https://openterrace.github.io/openterrace-python/) (creator, maintainer).
+- [OpenTerrace](https://openterrace.github.io/openterrace-python/) (creator, maintainer)
 - [Guide: OpenFOAM with WSL/Linux](https://github.com/jakobhaervig/openfoam-installer) (creator, maintainer)
 - [Guide: OpenFOAM with Docker](https://github.com/jakobhaervig/openfoam-dockerfiles) (creator, maintainer)
 - [Guide: OpenFOAM setup with VS Code](https://github.com/jakobhaervig/openfoam-docker-vscode-workflow) (creator, maintainer)
@@ -181,5 +181,8 @@ International Journal of Heat and Mass Transfer, 149:119046, 2020
 - Powder Technology
 
 ## Personal interests
-
-Running (5000 m), Bouldering, Fine art landscape photography, Scientific coding
+- Running 5000 m (still chasing that old 2012 PB that just won't quit)
+- Bouldering
+- Fine art landscape photography
+- Scientific coding
+- Messing around with fibers, high transmission rates and a secure TrueNAS server
