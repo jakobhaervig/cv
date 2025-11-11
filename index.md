@@ -8,13 +8,13 @@ Associate Professor
 </div>
 
 
-<!-- <div id="webaddress">
+<div id="webaddress">
 <a href="https://jakobhaervig.com">jakobhaervig.com </a>| <a href="https://www.linkedin.com/in/jakobhaervig/">LinkedIn </a>| <a href="https://github.com/jakobhaervig">GitHub</a>
-</div> -->
+</div>
 
 ### Focusing on
 
-Computational Fluid Dynamics (CFD), OpenFOAM, Workflow automation, CI/CD, Data reduction, Scientific coding, Python
+Computational Fluid Dynamics (CFD), Data reduction techniques, OpenFOAM, Workflow automation, CI/CD, Scientific coding, Python
 
 ## Experience
 
@@ -114,19 +114,19 @@ __*OpenFOAM Days*__
 
 ## Computing
 
-- *Favourite OS:* Debian/Ubuntu and Windows with WSL
-- *Favourite CFD tools:* OpenFOAM, blockMesh, snappyHexMesh, Salome, LIGGGHTS, CFDEM
+- *Favourite operating systems:* Debian/Ubuntu and Windows with WSL
+- *Favourite tools for Computational Fluid Dynamics:* OpenFOAM, blockMesh, snappyHexMesh, Salome, LIGGGHTS, CFDEM
 - *Favourite programming language:* Python (numpy, numba, scipy, matplotlib), bash scripting, MATLAB
 - *Favourite workflow includes:* Docker, Git, GitHub and GitHub actions for CI/CD pipelines, virtual environments
 - *Favourite presentation software:* reveal.js
 
 ## Open-source Projects
 
-- [OpenTerrace](https://openterrace.github.io/openterrace-python/) (creator, contributor, maintainer).
-- [Guide: OpenFOAM with WSL/Linux](https://github.com/jakobhaervig/openfoam-installer) (creator, contributor, maintainer)
-- [Guide: OpenFOAM with Docker](https://github.com/jakobhaervig/openfoam-dockerfiles) (creator, contributor, maintainer)
-- [Guide: OpenFOAM setup with VS Code](https://github.com/jakobhaervig/openfoam-docker-vscode-workflow) (creator, contributor, maintainer)
-- [Guide: OpenFOAM on LUMI](https://github.com/jakobhaervig/openfoam-lumi-hpc-installation) (creator, contributor, maintainer)
+- [OpenTerrace](https://openterrace.github.io/openterrace-python/) (creator, maintainer).
+- [Guide: OpenFOAM with WSL/Linux](https://github.com/jakobhaervig/openfoam-installer) (creator, maintainer)
+- [Guide: OpenFOAM with Docker](https://github.com/jakobhaervig/openfoam-dockerfiles) (creator, maintainer)
+- [Guide: OpenFOAM setup with VS Code](https://github.com/jakobhaervig/openfoam-docker-vscode-workflow) (creator, maintainer)
+- [Guide: OpenFOAM on LUMI](https://github.com/jakobhaervig/openfoam-lumi-hpc-installation) (creator, maintainer)
 - [QMK firmware](https://github.com/qmk/qmk_firmware) (contributor)
 
 ## Awards
